@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Hashkee"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
@@ -50,8 +50,8 @@ URL = "https://themefisher.com/"
 name = "Themefisher"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = ""
+description = "A smart solution company"
 google_analitycs_id = ""
 logo = "images/logo.png"
 post_share = true
