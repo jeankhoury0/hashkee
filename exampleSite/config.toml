@@ -53,7 +53,7 @@ weight = 8
 author = ""
 description = "A smart solution company"
 google_analitycs_id = ""
-logo = "images/Hashkke-white-logo-1.png"
+logo = "images/Haskee-LOGOasis.png"
 post_share = true
 [params.map]
 enable = true
@@ -87,7 +87,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/Hashkee-logo-small.png"
+preloader = "images/Haskee-LOGOasis.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
