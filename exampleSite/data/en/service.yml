@@ -8,7 +8,8 @@ service:
     content: ''
   - name: App Developments
     icon: ti-mobile
-    content: ''
+    content: Transform and mobilize your business anytime, anywhere with custom mobile
+      app development services from Hashkee.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: ''
