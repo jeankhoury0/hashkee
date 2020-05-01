@@ -1,4 +1,4 @@
-baseURL = "https://pedantic-ardinghelli-3cd2e2.netlify.app/"
+baseURL = "https://hashkee.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
