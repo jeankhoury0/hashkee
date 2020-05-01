@@ -15,8 +15,8 @@ service:
   - name: Graphic Design
     icon: ti-palette
     content: ''
-  - name: Apps Development
-    icon: ti-package
+  - name: blockchain solutions
+    icon: ti-receipt
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Networking
